@@ -12,4 +12,4 @@ cd server2 && rackup -p 9292
 open http://localhost:9293/get_cookies.html
 ```
 
-SERVER1 will reads SERVER2's cookies.
+SERVER1 will read SERVER2's cookies.
